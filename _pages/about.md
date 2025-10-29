@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://lsa.umich.edu/math/people/phd-students/mccruz.html'>Department of Mathematics, University of Michigan</a>, <a href='https://medschool.umich.edu/profile/madelyn-esther-cruz'>Department of Computational Medicine & Bioinformatics, University of Michigan</a>
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
     <p>530 Church Street</p>
     <p>Ann Arbor, MI 48109-1043</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false #true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:

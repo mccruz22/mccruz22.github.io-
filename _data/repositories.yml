@@ -4,10 +4,9 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - mccruz22/ISIC2024_Skin_Cancer_Detection
+  - mccruz22/NutritionNuts
+  - mccruz22/Quantum-Computing-Mini-Project-Sudoku
+  - Tonynanra/545-hms
+  - shravanvn/math-655-f23
+  - ncode-sync/LIS_data_analysis
