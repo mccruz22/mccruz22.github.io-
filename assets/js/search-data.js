@@ -405,7 +405,7 @@ ninja.data = [{
           title: 'travels',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
+              window.location.href = "/travels/";
             },},{
         id: 'social-email',
         title: 'email',
