@@ -14,21 +14,23 @@ In progress
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2018.thailand.jpg" title="Thailand 2017" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/image (2).png" title="Singapore" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2013. Singapore.jpg" title="Singapore" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-md-4 d-flex flex-column justify-content-between">
+        <div class="mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/image (2).png" title="Singapore" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/2018.thailand.jpg" title="Thailand 2017" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    <div class="col-md-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/DSCF3726.jpg" title="Thailand 2019" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="caption">
-    Thailand 2017. Singapore 2013. Singapore 2013/2014/2015/2016. Thailand 2019.
+    Singapore 2013. Singapore 2013/2014/2015/2016. Thailand 2017. Thailand 2019.
 </div>
 
 
@@ -43,24 +45,18 @@ In progress
         {% include figure.liquid loading="eager" path="assets/img/IMG_1393.jpg" title="St. Kitts" class="img-fluid rounded z-depth-1" %}
     </div>  
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IMG_1336_(1).jpg" title="St. Kitts" class="img-fluid rounded z-depth-1" %}
-    </div> 
-    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/IMG_0971.jpg" title="Antigua" class="img-fluid rounded z-depth-1" %}
     </div>        
 </div>
 
 <div class="caption">
-    Puerto Rico 2024. Florida 2024. St. Kitts 2024. St. Kitts 2024. Antigua 2024.
+    Puerto Rico 2024. Florida 2024. St. Kitts 2024. Antigua 2024.
 </div>
 
 
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IMG_1585.jpg" title="St. Thomas" class="img-fluid rounded z-depth-1" %}
-    </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/IMG_1592.jpg" title="St. Thomas" class="img-fluid rounded z-depth-1" %}
     </div>

@@ -9,9 +9,9 @@ nav_order: 5
 
 ### Math 215 (Calculus III) 
 **Position:** Graduate Student Instructor  
-**Duration:** Fall 2023
+**Duration:** Fall 2024
 
 ### Math 115 (Calculus I) 
 **Position:** Graduate Student Instructor  
-**Duration:** Winter 2023, Fall 2022
+**Duration:** Fall 2023, Winter 2023, Fall 2022
 
