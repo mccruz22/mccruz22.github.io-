@@ -36,13 +36,13 @@ In progress
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IMG_0642.jpg" title="Puerto Rico" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/IMG_0642.jpg" title="Puerto Rico" class="rounded z-depth-1" %}
     </div>   
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IMG_1393.jpg" title="St. Kitts" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/IMG_1393.jpg" title="St. Kitts" class="rounded z-depth-1" %}
     </div>  
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IMG_0971.jpg" title="Antigua" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/IMG_0971.jpg" title="Antigua" class="rounded z-depth-1" %}
     </div>        
 </div>
 
@@ -60,8 +60,9 @@ In progress
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/IMG_1746.jpg" title="St. Thomas" class="img-fluid rounded z-depth-1" %}
     </div>
+    
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IMG_1624.jpg" title="St. Thomas" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/IMG_1624.jpg" title="St. Thomas" class="rounded z-depth-1" %}
     </div>
     
 </div>
